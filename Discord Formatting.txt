@@ -1,0 +1,62 @@
+# How can I format my discord messages like a pro?# 
+
+# Text Resizing (Headings)
+- **Heading 1:** `# title` → 
+# title
+- **Heading 2:** `title` → 
+## title
+- **Heading 3:** `### title` → 
+### title
+- **Subtext:** `-# text` → 
+-# text
+
+### Text Formatting
+- **Bold:** \*\*text\*\* → **text**
+- **Italic:** \*text\* or \_text\_ → *text*
+- **Underline:** \_\_text\_\_ → __text__
+- **Strikethrough:** \~\~text\~\~ → ~~text~~
+- **Spoiler (Hidden Text):** \|\|text\|\| → ||text||
+- **Highlight:** *\`text`* → `text`
+- **Clean Link:** *\[text](URL)* → [text](https://www.antscihub.com/)
+- **Bold Italic:** \*\*\*text\*\*\* → ***text***
+- **Underline Italic:** \_\_\*text\*\_\_ → __*text*__
+- **Underline Bold:** \_\_\*\*text\*\*\_\_ → __**text**__
+- **Underline Bold Italic:** \_\_\*\*\*text\*\*\*\_\_ → __***text***__
+- **Escape Formatting:** \\*text\\* → \*text\* (Prevents formatting)
+
+### Lists (note: + or * can be used in place of -)
+- **Unordered List:**  
+  `- Item 1` →  
+  - Item 1
+- **Ordered List:**  
+  `1. First item` →  
+  1. First item
+- **Sub-List (Indentation):**  
+  - **Unordered Sub-list:**  
+    `- Main item`  
+    `  - Sub-item` →  
+    - Main item  
+      - Sub-item
+  - **Ordered Sub-list:**  
+    `1. Main item`  
+    `   1. Sub-item` →  
+    1. Main item  
+       1. Sub-item
+
+- **Combining Ordered and Unordered Lists:**  
+  `1. Ordered item`  
+  `   - Unordered sub-item`  
+  `2. Another ordered item`  
+  `   - Another unordered sub-item` →  
+  1. Ordered item  
+     - Unordered sub-item  
+  2. Another ordered item  
+     - Another unordered sub-item
+
+- **Nested Lists:**  
+  `- Level 1`  
+  `  - Level 2`  
+  `    - Level 3` →  
+  - Level 1  
+    - Level 2  
+      - Level 3
